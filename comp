@@ -1,0 +1,5 @@
+#!/bin/bash
+#C11 ist aktueller als C99 und wurde daher gewählt
+echo ----  uebersetzen mit dem C11-Standard ----
+gcc -std=c11 -o ${1}  ${1}.c
+# -I durchsucht das Verzeichnis nach Headerdateien

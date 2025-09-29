@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "__node_handle": "c",
+        "sign.h": "c",
+        "rng.h": "c",
+        "api.h": "c",
+        "params.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "packing.h": "c",
+        "string.h": "c",
+        "ctype.h": "c",
+        "timemeasure.h": "c",
+        "stdlib.h": "c"
+    }
+}
